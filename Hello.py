@@ -16,7 +16,7 @@ def testfunction(a, b):
 
 if __name__ == "__main__":
      c = add(2, 3)
-     f = testfunction(4, 5)
+     f = testfunction(44, 5)
      print(c)
      print(f)
      print("Test main")
