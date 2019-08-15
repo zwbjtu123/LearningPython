@@ -7,9 +7,17 @@ def multiply(a, b):
 def subtraction(a, b):
      return  a - b
 
+def testfunction(a, b):
+     c = subtraction(a, b)
+     d = multiply(a, b)
+     return c + d
+
+
 if __name__ == "__main__":
      c = add(2, 3)
+     f = testfunction(4, 5)
      print(c)
+     print(f)
      print("Test main")
 
 
