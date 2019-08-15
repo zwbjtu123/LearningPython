@@ -7,7 +7,7 @@ def multiply(a, b):
 def subtraction(a, b):
      return  a - b
 
-# 测试函数1111
+# 测试函数
 def testfunction(a, b):
      c = subtraction(a, b)
      d = multiply(a, b)
