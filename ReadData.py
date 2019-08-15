@@ -9,3 +9,4 @@ if __name__ == "__main__":
     file_name = "Data.txt"
     ss_list = read_data(file_name)
     print(ss_list)
+
