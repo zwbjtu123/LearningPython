@@ -14,4 +14,3 @@ with open('out.json', 'w', encoding='utf-8') as wr:
         }
         l.append(d)
     json.dump(l, wr, ensure_ascii=False, indent=4)
-        
