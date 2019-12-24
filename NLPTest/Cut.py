@@ -17,4 +17,4 @@ def main(file_name,output_name):
 
 
 if __name__ == "__main__":
-    main("Data.txt", "Data2.txt")
+    main("NLPTest/Data.txt", "NLPTest/Data2.txt")

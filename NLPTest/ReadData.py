@@ -7,6 +7,6 @@ def read_data(file_name):
 
 
 if __name__ == "__main__":
-    file_name = "Data.txt"
+    file_name = "NLPTest/Data.txt"
     ss_list = read_data(file_name)
     print(ss_list)
